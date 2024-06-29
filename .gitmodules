@@ -1,0 +1,15 @@
+[submodule "streamlit/langchain-examples"]
+	path = streamlit/langchain-examples
+	url = https://github.com/alphasecio/langchain-examples.git
+[submodule "AdvancedRAG/raptor"]
+	path = AdvancedRAG/raptor
+	url = https://github.com/parthsarthi03/raptor
+[submodule "AdvancedRAG/Advanced-RAG-Experiments"]
+	path = AdvancedRAG/Advanced-RAG-Experiments
+	url = https://github.com/machinelearningzuu/Advanced-RAG-Experiments.git
+[submodule "unstructured_processing/spacy-llm"]
+	path = unstructured_processing/spacy-llm
+	url = https://github.com/explosion/spacy-llm
+[submodule "unstructured_processing/CyNER"]
+	path = unstructured_processing/CyNER
+	url = https://github.com/aiforsec/CyNER
