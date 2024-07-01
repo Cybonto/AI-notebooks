@@ -13,3 +13,48 @@
 [submodule "unstructured_processing/CyNER"]
 	path = unstructured_processing/CyNER
 	url = https://github.com/aiforsec/CyNER
+[submodule "chunking/semchunk"]
+	path = chunking/semchunk
+	url = https://github.com/umarbutler/semchunk.git
+[submodule "chunking/NCRFpp"]
+	path = chunking/NCRFpp
+	url = https://github.com/jiesutd/NCRFpp.git
+[submodule "graph/networkx-neo4j"]
+	path = graph/networkx-neo4j
+	url = https://github.com/neo4j-graph-analytics/networkx-neo4j.git
+[submodule "graph/knowledge_graph"]
+	path = graph/knowledge_graph
+	url = https://github.com/rahulnyk/knowledge_graph
+[submodule "graph/pyvis"]
+	path = graph/pyvis
+	url = https://github.com/WestHealth/pyvis
+[submodule "graph/Drug-Interactions-Network-Analysis-and-Visualization"]
+	path = graph/Drug-Interactions-Network-Analysis-and-Visualization
+	url = https://github.com/kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization.git
+[submodule "graph/streamlit_network"]
+	path = graph/streamlit_network
+	url = https://github.com/napoles-uach/streamlit_network
+[submodule "graph/networkx-demo"]
+	path = graph/networkx-demo
+	url = https://github.com/mitch-b/networkx-demo.git
+[submodule "graph/nx-guides"]
+	path = graph/nx-guides
+	url = https://github.com/networkx/nx-guides.git
+[submodule "AdvancedRAG/rag-experiment-accelerator"]
+	path = AdvancedRAG/rag-experiment-accelerator
+	url = https://github.com/microsoft/rag-experiment-accelerator.git
+[submodule "unstructured_processing/LLM-WebToGraph"]
+	path = unstructured_processing/LLM-WebToGraph
+	url = https://github.com/prvnsingh/LLM-WebToGraph.git
+[submodule "RAG/llm-applications"]
+	path = RAG/llm-applications
+	url = https://github.com/ray-project/llm-applications.git
+[submodule "chunking/open-parse"]
+	path = chunking/open-parse
+	url = https://github.com/Filimoa/open-parse.git
+[submodule "integratedExamples/Azure-Cognitive-Search-Azure-OpenAI-Accelerator"]
+	path = integratedExamples/Azure-Cognitive-Search-Azure-OpenAI-Accelerator
+	url = https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator.git
+[submodule "integratedExamples/openai-cookbook"]
+	path = integratedExamples/openai-cookbook
+	url = https://github.com/openai/openai-cookbook.git
